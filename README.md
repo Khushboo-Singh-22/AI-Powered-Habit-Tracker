@@ -1,4 +1,4 @@
-<div align="center">
+**<div align="center">
 
 # 🤖 AI Powered Habit Tracker
 
@@ -92,8 +92,7 @@ Works smoothly on:
 
 ## Landing Page
 
-<img width="100%" src="![Uploading image.png…]()
-"/>
+<img width="100%" src="./screenshots/home.png"/>
 
 ---
 
@@ -335,4 +334,4 @@ https://www.linkedin.com/in/khushboo-s-singh/
 
 Don't forget to ⭐ the project.
 
-</div>
+</div>**
