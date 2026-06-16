@@ -92,7 +92,7 @@ Works smoothly on:
 
 ## Landing Page
 
-![Uploading image.png…]()
+<img width="100%" src="./screenshots/home.png"/>
 
 ---
 
