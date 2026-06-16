@@ -1,145 +1,110 @@
-# 🚀 AI-Powered Habit Tracker
-
 <div align="center">
 
-# 🧠 AI-Powered Habit Tracker
+# 🤖 AI Powered Habit Tracker
 
-### Build Better Habits • Track Progress • Stay Consistent
+### Build Better Habits. Stay Consistent. Grow Every Day.
 
-A modern full-stack habit tracking application designed to help users build positive habits, monitor progress, analyze performance, and receive AI-powered insights.
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=700&size=24&duration=3000&pause=1000&color=6C63FF&center=true&vCenter=true&width=800&lines=AI+Powered+Habit+Tracker;Track+Your+Daily+Habits;Build+Consistency+%26+Streaks;Stay+Motivated+Every+Day"/>
 
-![MERN](https://img.shields.io/badge/MERN-Stack-green?style=for-the-badge)
-![React](https://img.shields.io/badge/React-19-blue?style=for-the-badge)
-![Node](https://img.shields.io/badge/Node.js-Express-green?style=for-the-badge)
-![MongoDB](https://img.shields.io/badge/MongoDB-Database-green?style=for-the-badge)
-![JWT](https://img.shields.io/badge/Auth-JWT-orange?style=for-the-badge)
-![TailwindCSS](https://img.shields.io/badge/TailwindCSS-Styled-blue?style=for-the-badge)
+<br>
+
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
+![Tailwind](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 
 </div>
 
 ---
 
+# 🌐 Live Demo
+
+### 🚀 Website
+
+https://ai-powered-habit-tracker-six.vercel.app
+
+---
+
 # 📖 About
 
-AI-Powered Habit Tracker is a productivity application that helps users create healthy routines and maintain consistency.
+AI Powered Habit Tracker is a modern productivity web application that helps users build healthy habits and maintain consistency.
 
-The application provides:
+The application allows users to:
 
-* Daily habit tracking
-* Streak management
-* Weekly analytics
-* Progress charts
-* Heatmap visualization
-* AI-generated reports
-* AI habit suggestions
-* Personalized recovery plans
-* Dark mode support
-* Beautiful responsive dashboard
+✅ Create habits
+
+✅ Track daily progress
+
+✅ Maintain streaks
+
+✅ Monitor habit completion
+
+✅ Build discipline through consistency
+
+The goal of this project is to help users improve their daily routine and achieve long-term personal growth.
 
 ---
 
 # ✨ Features
 
-## 🔐 Authentication
+## 📅 Daily Habit Tracking
 
-* User Registration
-* User Login
-* JWT Authentication
-* Protected Routes
-* User Profile
+Create and manage daily habits easily.
 
 ---
 
-## 📅 Habit Management
+## 🔥 Streak Management
 
-* Create habits
-* Update habits
-* Delete habits
-* Archive habits
-* Habit categories
-* Custom colors
-* Custom icons
-* Daily and weekly habits
+Maintain daily streaks and stay motivated.
 
 ---
 
-## 📊 Analytics
+## 📊 Progress Tracking
 
-* Completion statistics
-* Current streak
-* Longest streak
-* Weekly insights
-* Category distribution
-* Completion heatmap
-* Daily performance graph
+Monitor your habit completion over time.
 
 ---
 
-## 🤖 AI Features
+## 🎯 Goal Building
 
-### AI Weekly Report
-
-Generates personalized weekly reports based on habit completion.
-
-### AI Habit Suggestions
-
-Suggests new habits according to user activity.
-
-### AI Recovery Plan
-
-Provides recovery strategies after missing habits.
-
-### AI Chat
-
-Simple motivational AI assistant.
-
-### Morning Motivation
-
-Daily motivational messages.
+Build productive routines with consistency.
 
 ---
 
-# 🖥️ Dashboard
+## 🤖 AI Inspired Productivity
 
-Users can view:
-
-✅ Active habits
-
-✅ Today's progress
-
-✅ Weekly completion
-
-✅ Completion percentage
-
-✅ Streaks
-
-✅ Statistics
+Smart habit-building approach for long-term improvement.
 
 ---
 
-# 🏗️ Project Structure
+## 📱 Responsive Design
 
-```
-AI-Powered-Habit-Tracker
+Works smoothly on:
 
-│
-├── backend
-│   ├── config
-│   ├── middleware
-│   ├── models
-│   ├── routes
-│   ├── server.js
-│   └── package.json
-│
-├── frontend
-│   └── ai-Habit-Tracker
-│       ├── src
-│       ├── public
-│       ├── package.json
-│       └── vite.config.js
-│
-└── README.md
-```
+- Desktop
+- Laptop
+- Tablet
+- Mobile
+
+---
+
+# 🖥️ Screenshots
+
+## Landing Page
+
+<img width="100%" src="./screenshots/home.png"/>
+
+---
+
+## Dashboard
+
+<img width="100%" src="./screenshots/dashboard.png"/>
+
+---
+
+## Habit Tracking
+
+<img width="100%" src="./screenshots/habits.png"/>
 
 ---
 
@@ -147,34 +112,45 @@ AI-Powered-Habit-Tracker
 
 ## Frontend
 
-* React
-* Vite
-* Tailwind CSS
-* React Router
-* Axios
-* Recharts
-* Framer Motion
+- React.js
+- Vite
+- Tailwind CSS
+- JavaScript
 
-## Backend
+## Deployment
 
-* Node.js
-* Express.js
-* MongoDB
-* Mongoose
-* JWT
-* bcryptjs
+- Vercel
 
-## Authentication
+## Version Control
 
-* JWT Tokens
-
-## Database
-
-* MongoDB Atlas
+- Git
+- GitHub
 
 ---
 
-# 📦 Installation
+# 📂 Project Structure
+
+```
+AI-Powered-Habit-Tracker/
+
+├── public/
+├── src/
+│
+├── components/
+├── pages/
+├── assets/
+├── styles/
+│
+├── App.jsx
+├── main.jsx
+│
+├── package.json
+└── README.md
+```
+
+---
+
+# 🚀 Installation
 
 ## Clone Repository
 
@@ -182,37 +158,25 @@ AI-Powered-Habit-Tracker
 git clone https://github.com/Khushboo-Singh-22/AI-Powered-Habit-Tracker.git
 ```
 
+---
+
+## Open Project
+
 ```
 cd AI-Powered-Habit-Tracker
 ```
 
 ---
 
-# Backend Setup
-
-```
-cd backend
-```
-
-Install dependencies:
+## Install Dependencies
 
 ```
 npm install
 ```
 
-Create .env
+---
 
-```
-PORT=8000
-
-MONGO_URI=your_mongodb_connection
-
-JWT_SECRET=your_secret
-
-CLIENT_URL=http://localhost:5173
-```
-
-Run:
+## Run Project
 
 ```
 npm run dev
@@ -220,136 +184,75 @@ npm run dev
 
 ---
 
-# Frontend Setup
+## Build
 
 ```
-cd frontend/ai-Habit-Tracker
-```
-
-Install:
-
-```
-npm install
-```
-
-Create:
-
-```
-.env
-
-VITE_API_URL=http://localhost:8000/api
-```
-
-Run:
-
-```
-npm run dev
+npm run build
 ```
 
 ---
 
-# API Routes
+# 🎯 Future Enhancements
 
-## Authentication
+- User Authentication
 
-```
-POST /api/auth/register
+- AI Habit Suggestions
 
-POST /api/auth/login
+- Daily Reminders
 
-GET /api/auth/me
-```
+- Weekly Analytics
 
----
+- Monthly Reports
 
-## Habits
+- Dark Mode
 
-```
-GET /api/habits
+- Calendar Integration
 
-POST /api/habits
+- Achievement Badges
 
-PUT /api/habits/:id
+- Community Challenges
 
-DELETE /api/habits/:id
-```
+- Cloud Sync
 
 ---
 
-## Logs
+# 💡 Use Cases
 
-```
-POST /api/logs
+✔ Fitness Tracking
 
-DELETE /api/logs
+✔ Reading Habit
 
-GET /api/logs/today
+✔ Coding Practice
 
-GET /api/logs/stats
-```
+✔ Meditation
 
----
+✔ Water Intake
 
-## AI
+✔ Exercise
 
-```
-POST /api/ai/chat
+✔ Study Routine
 
-POST /api/ai/weekly-report
+✔ Daily Journaling
 
-POST /api/ai/recovery-plan
+✔ Language Learning
 
-POST /api/ai/suggest-habits
-```
+✔ Personal Growth
 
 ---
 
-# 🔒 Security
+# 📈 Benefits
 
-* JWT Authentication
-* Password Hashing
-* Protected Routes
-* Environment Variables
-* Secure MongoDB Connection
+- Improve productivity
 
----
+- Build discipline
 
-# 🎯 Future Improvements
+- Stay consistent
 
-* Google Authentication
-* Email Verification
-* Push Notifications
-* AI Chatbot Upgrade
-* Mobile Application
-* Habit Sharing
-* Friends System
-* Leaderboard
-* Rewards System
-* Calendar Sync
+- Track progress
 
----
+- Create positive habits
 
-# 📸 Screenshots
-
-## Landing Page
-
-Add screenshot here.
-
-## Dashboard
-
-Add screenshot here.
-
-## Habit Management
-
-Add screenshot here.
-
-## Weekly Insights
-
-Add screenshot here.
-
-## Statistics
-
-Add screenshot here.
+- Achieve long-term goals
 
 ---
 
@@ -357,41 +260,78 @@ Add screenshot here.
 
 Contributions are welcome.
 
-1. Fork repository
-2. Create branch
-3. Commit changes
-4. Push branch
-5. Open Pull Request
+1. Fork Repository
+
+2. Create Feature Branch
+
+```
+git checkout -b feature-name
+```
+
+3. Commit Changes
+
+```
+git commit -m "Added new feature"
+```
+
+4. Push
+
+```
+git push origin feature-name
+```
+
+5. Create Pull Request
 
 ---
 
-# 👩‍💻 Author
+# 🐛 Found a Bug?
 
-## Khushboo Singh
+Open an issue here:
 
-### Full Stack Developer
-
-### MERN Stack Developer
-
-### Java Developer
-
-GitHub:
-https://github.com/Khushboo-Singh-22
+https://github.com/Khushboo-Singh-22/AI-Powered-Habit-Tracker/issues
 
 ---
 
 # ⭐ Support
 
-If you like this project, please consider giving it a ⭐ on GitHub.
+If you like this project,
 
-It helps motivate future development and supports open-source contributions.
+Please give it a ⭐ on GitHub.
+
+---
+
+# 👩‍💻 Developer
+
+## Khushboo Singh
+
+### Full Stack Developer
+
+💻 MERN Stack
+
+☕ Java
+
+🌐 Web Development
+
+🚀 Open to Internship & Entry-Level Opportunities
+
+GitHub:
+
+https://github.com/Khushboo-Singh-22
+
+LinkedIn:
+
+https://www.linkedin.com/in/khushboo-s-singh/
 
 ---
 
 <div align="center">
 
-## 🌟 Build Better Habits, Build a Better Life 🌟
+## 🌟 Build Good Habits. Build a Better Future.
 
-Made with ❤️ by Khushboo Singh
+### "Small actions repeated every day create extraordinary results."
+
+❤️ Thank you for visiting this repository.
+
+Don't forget to ⭐ the project.
 
 </div>
